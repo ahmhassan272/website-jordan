@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm --filter @workspace/nomad-intelligence run build",
+  "outputDirectory": "artifacts/nomad-intelligence/dist/public",
+  "installCommand": "pnpm install",
+  "framework": null
+}
